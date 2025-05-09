@@ -5,23 +5,23 @@ Trabalho de Conclusao de Curso
 
 ## Estrutura Principal
 - [x] **Capa** (conforme normas UFPR)
-- [ ] **Folha de Rosto** (conforme normas UFPR)
+- [x] **Folha de Rosto** (conforme normas UFPR)
 - [ ] **Folha de Aprovação** (conforme normas UFPR)
 - [ ] **Dedicatória** (opcional)
-- [ ] **Agradecimentos** (opcional)
+- [x] **Agradecimentos** (opcional)
 - [ ] **Epígrafe** (opcional)
 
 ## Elementos Pré-Textuais
-- [ ] **Sumário**
-- [ ] **Lista de Figuras**
-- [ ] **Lista de Tabelas**
-- [ ] **Lista de Siglas e Abreviaturas** (se aplicável)
+- [x] **Sumário**
+- [x] **Lista de Figuras**
+- [x] **Lista de Tabelas**
+- [x] **Lista de Siglas e Abreviaturas** (se aplicável)
 
 ## 1. Resumo
-- [ ] Resumo em língua portuguesa (entre 150 e 500 palavras)
-- [ ] Palavras-chave (3 a 5)
-- [ ] Abstract (tradução do resumo para língua inglesa)
-- [ ] Keywords (tradução das palavras-chave)
+- [x] Resumo em língua portuguesa (entre 150 e 500 palavras)
+- [x] Palavras-chave (3 a 5)
+- [x] Abstract (tradução do resumo para língua inglesa)
+- [x] Keywords (tradução das palavras-chave)
 
 ## 2. Introdução
 - [ ] Descrição clara do contexto
