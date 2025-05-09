@@ -1,4 +1,4 @@
-# condo-connect-tcc
+# Condo Connect
 Trabalho de Conclusao de Curso 
 
 # Checklist do Trabalho Acadêmico
