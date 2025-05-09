@@ -4,7 +4,7 @@ Trabalho de Conclusao de Curso
 # Checklist do Trabalho Acadêmico
 
 ## Estrutura Principal
-- [ ] **Capa** (conforme normas UFPR)
+- [x] **Capa** (conforme normas UFPR)
 - [ ] **Folha de Rosto** (conforme normas UFPR)
 - [ ] **Folha de Aprovação** (conforme normas UFPR)
 - [ ] **Dedicatória** (opcional)
